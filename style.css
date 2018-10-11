@@ -1,0 +1,51 @@
+.logo {
+    height: 40px;
+    padding-top: 10px;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+#intro {
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.pdgntop20 {
+    padding-top: 20px;
+}
+
+.carousel-inner {
+    height: 400px;
+}
+
+.carousel-caption {
+    top: 100px;
+}
+
+.foto1 {
+    width: 30%;
+}
+
+.pdgn50 {
+    padding-top: 50px;
+}
+
+.jumbotron p {
+    font-size: 15px;
+}
+
+.jumbotron {
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
+.mb-0{
+    margin-bottom: 0;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 10px 70px;
+}
